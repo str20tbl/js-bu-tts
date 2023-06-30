@@ -2,7 +2,7 @@ function q(selector) {
     return document.querySelector(selector)
 }
 
-export function synthesize(text, speaker_id = "") {
+function synthesize(text, speaker_id = "") {
     let base_url = "https://api.techiaith.org/coqui-tts/api/";
     let uri_text = text;
     let uri_speaker_id = speaker_id;
