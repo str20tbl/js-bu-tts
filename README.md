@@ -1,5 +1,5 @@
 # js-bu-tts
-Nodwedd Java Script i dangos sut i defnyddio TTS
+Nodwedd Java Script i dangos sut i ddefnyddio TTS 
 
 Ewch i [api.techiaith.org](https://api.techiaith.org) ar gyfer eich allwedd API.
 
